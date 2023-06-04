@@ -1,2 +1,2 @@
 # customVpn
-私人定制vpn 10M+
+私人定制vpn
