@@ -20,7 +20,7 @@ VPN  Virtunal Private Network
 
 1. 域名
 2. 信用卡(可以扣除美元)
-3. VPS Virtunal Private Server)
+3. VPS Virtunal Private Server
 
 以上都满足的小伙伴直接跳过到下面部署教程
 
