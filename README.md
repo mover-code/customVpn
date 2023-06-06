@@ -60,3 +60,8 @@ VPS
 我这里整理clash Mac/Windows/Android 客户端下载 [链接](https://cloud.189.cn/web/share?code=zu6niyAvauUz)
 ios 需要非大陆appid在appStore 下载 oneclick android 也可在google play 下载
 
+## donate(捐赠)
+- [papay捐赠](https://xingmegshuo.github.io/)  博客链接
+- [USDT] 0xad332F5592799199B35386B080eF2faa7A0Fcd1a 
+- [VDBX](https://m.debox.space/group?id=fxi5pyp9&code=nBfXd1j0)
+- [收费部署服务](https://demarket.io/market/detail/55?chain=56) 目前仅收费5USDT,web3 德玛商城
