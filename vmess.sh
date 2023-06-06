@@ -32,7 +32,7 @@ random(){
     # 随机生成40000~50000之间的一个随机数
     randPort=$((RANDOM % 1000 + 30000 ))   
     echo -e \
-    "trojan://77fd0e60@proxy.chydao.org:443#freedom"\
+    "trojan://password@xxx.xxx.com:443#freedom"\
     | sed "s/443/$randPort/g" | base64 -w 0 | sed "s/o=/==/g" > $fileName
     echo "$randPort vmess"
 }

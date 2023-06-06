@@ -7,20 +7,20 @@ external-controller: :9090
 proxies:
   - {
       name: kr,
-      server: proxy.chydao.org,
-      port: 30101,
+      server: XXX.xxx.com,
+      port: RANDOM_PORT1,
       type: trojan,
-      password: 77fd0e60,
-      sni: proxy.chydao.org,
+      password: password,
+      sni: XXX.xxx.com,
       skip-cert-verify: false,
     }
   - {
       name: bob,
-      server: proxy.chydao.org,
-      port: 30896,
+      server: XXX.xxx.com,
+      port: RANDOM_PORT2,
       type: trojan,
-      password: 77fd0e60,
-      sni: proxy.chydao.org,
+      password: password,
+      sni: XXX.xxx.com,
       skip-cert-verify: false,
     }
 proxy-groups:
